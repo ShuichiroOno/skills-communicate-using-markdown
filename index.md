@@ -11,6 +11,9 @@ Markdown is a lightweight syntax for formatting text.
 - Item 2
 - Item 3
 
+![GitHub Octocat](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
 ##### Code Blocks
 ```python
 print("Hello, Markdown!")
+
